@@ -2,4 +2,4 @@ modifaction sur branche dev 3
 mdeuxieme modif sur branch test
 troisieme modif sur la branche dev3
 ligne a supprimer par un git revert
-ligne 2 a supprimer par un git revertt
+ligne 2 a supprimer par un git reverttt
